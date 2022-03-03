@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\e.camalzade\source\repos\RC\RC\FileHelper.h(31,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\e.camalzade\source\repos\RC\RC\FileHelper.h(64,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\e.camalzade\source\repos\RC\RC\FileHelper.h(110,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\e.camalzade\source\repos\RC\RC\FileHelper.h(148,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\e.camalzade\source\repos\RC\RC\Functions.h(78,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\e.camalzade\source\repos\RC\RC\Functions.h(89,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\e.camalzade\source\repos\RC\RC\Functions.h(96,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\e.camalzade\source\repos\RC\RC\Functions.h(105,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\e.camalzade\source\repos\RC\RC\Functions.h(117,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\e.camalzade\source\repos\RC\RC\Source.cpp(11,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  RC.vcxproj -> C:\Users\e.camalzade\source\repos\RC\Debug\RC.exe
