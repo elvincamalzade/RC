@@ -3,6 +3,12 @@
 using namespace std;
 
 
+struct Car {
+	int a;
+	int b;
+};
+
+
 void Run() {
 	Start();
 	
