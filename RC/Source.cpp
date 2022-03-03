@@ -5,6 +5,7 @@ using namespace std;
 
 void Run() {
 	Start();
+	cout << "Salam Salam" << endl;
 }
 
 
