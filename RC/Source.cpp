@@ -7,6 +7,10 @@ struct Car {
 	int a;
 	int b;
 };
+struct Student {
+	int a;
+	int b;
+};
 
 
 void Run() {
